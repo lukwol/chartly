@@ -1,0 +1,6 @@
+[
+  {
+    "label": "trunk serve",
+    "command": "trunk serve"
+  }
+]
